@@ -1,0 +1,9 @@
+[requires]
+imgui/1.88
+glfw/3.3.8
+glad/0.1.36
+jsoncpp/1.9.5
+nativefiledialog/116
+
+[generators]
+cmake
